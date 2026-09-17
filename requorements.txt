@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+chromadb
+pdfminer.six
+python-multipart
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-mcp-adapters
+mcp<2

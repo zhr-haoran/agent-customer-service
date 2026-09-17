@@ -1,0 +1,29 @@
+# 环境与密钥
+.env
+
+# 向量库数据
+chroma_db/
+
+# 上传的文件
+uploads/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# PDF 测试文件
+*.pdf
