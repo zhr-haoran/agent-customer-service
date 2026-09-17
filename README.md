@@ -1,4 +1,4 @@
-# 企业级智能客服Agent系统
+# 智能客服Agent系统
 
 基于 LangGraph 的 Agentic RAG 工作流，支持 PDF 知识库上传、语义检索、相关性评估、自动拒答和 MCP 工具调用。
 
